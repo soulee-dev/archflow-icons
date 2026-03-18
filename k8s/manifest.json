@@ -1,0 +1,61 @@
+{
+  "provider": "k8s",
+  "description": "Kubernetes Icons (community)",
+  "source_version": "kubernetes/community@a222663ef579 (2022-05-15)",
+  "node_render_mode": "icon_only",
+  "nodes": [
+    "api-server",
+    "cloud-controller-manager",
+    "cluster-role",
+    "cluster-role-binding",
+    "config-map",
+    "control-plane",
+    "controller-manager",
+    "cron-job",
+    "custom-resource-definition",
+    "daemon-set",
+    "deployment",
+    "endpoint",
+    "etcd",
+    "group",
+    "horizontal-pod-autoscaler",
+    "ingress",
+    "job",
+    "kube-proxy",
+    "kubelet",
+    "limit-range",
+    "namespace",
+    "network-policy",
+    "node",
+    "persistent-volume",
+    "persistent-volume-claim",
+    "pod",
+    "pod-security-policy",
+    "replica-set",
+    "resource-quota",
+    "role",
+    "role-binding",
+    "scheduler",
+    "secret",
+    "service",
+    "service-account",
+    "stateful-set",
+    "storage-class",
+    "user",
+    "volume"
+  ],
+  "cluster_styles": {
+    "cluster": {
+      "stroke": "#326CE5",
+      "fill": "rgba(50,108,229,0.04)",
+      "stroke_dasharray": "6 3",
+      "corner_radius": 8
+    },
+    "namespace": {
+      "stroke": "#326CE5",
+      "fill": "rgba(50,108,229,0.03)",
+      "stroke_dasharray": "6 3",
+      "corner_radius": 4
+    }
+  }
+}
