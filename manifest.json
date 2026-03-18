@@ -4,6 +4,11 @@
       "source_version": "2025-07-31",
       "nodes": 307,
       "clusters": 11
+    },
+    "gcp": {
+      "source_version": "2025-09",
+      "nodes": 19,
+      "categories": 26
     }
   }
 }

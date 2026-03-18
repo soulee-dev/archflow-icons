@@ -1,0 +1,87 @@
+{
+  "provider": "gcp",
+  "description": "Google Cloud Platform Icons (official)",
+  "source_version": "2025-09",
+  "node_render_mode": "icon_only",
+  "nodes": [
+    "ai-hypercomputer",
+    "alloydb",
+    "anthos",
+    "apigee",
+    "bigquery",
+    "cloud-run",
+    "cloud-spanner",
+    "cloud-sql",
+    "cloud-storage",
+    "compute-engine",
+    "distributed-cloud",
+    "gke",
+    "hyperdisk",
+    "looker",
+    "mandiant",
+    "security-command-center",
+    "security-operations",
+    "threat-intelligence",
+    "vertex-ai"
+  ],
+  "categories": [
+    "agents",
+    "ai-machine-learning",
+    "business-intelligence",
+    "collaboration",
+    "compute",
+    "containers",
+    "data-analytics",
+    "databases",
+    "developer-tools",
+    "devops",
+    "hybrid-multicloud",
+    "integration-services",
+    "management-tools",
+    "maps-geospatial",
+    "marketplace",
+    "media-services",
+    "migration",
+    "mixed-reality",
+    "networking",
+    "observability",
+    "operations",
+    "security-identity",
+    "serverless-computing",
+    "storage",
+    "web-mobile",
+    "web3"
+  ],
+  "cluster_styles": {
+    "region": {
+      "stroke": "#4285F4",
+      "fill": "rgba(66,133,244,0.04)",
+      "stroke_dasharray": "6 3",
+      "corner_radius": 0
+    },
+    "vpc": {
+      "stroke": "#34A853",
+      "fill": "rgba(52,168,83,0.04)",
+      "stroke_dasharray": "6 3",
+      "corner_radius": 0
+    },
+    "subnet": {
+      "stroke": "#34A853",
+      "fill": "rgba(52,168,83,0.03)",
+      "stroke_dasharray": "6 3",
+      "corner_radius": 0
+    },
+    "project": {
+      "stroke": "#4285F4",
+      "fill": "rgba(66,133,244,0.03)",
+      "stroke_dasharray": "6 3",
+      "corner_radius": 0
+    },
+    "zone": {
+      "stroke": "#FBBC04",
+      "fill": "rgba(251,188,4,0.04)",
+      "stroke_dasharray": "6 3",
+      "corner_radius": 0
+    }
+  }
+}
