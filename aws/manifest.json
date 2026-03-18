@@ -324,5 +324,20 @@
     "server-contents",
     "spot-fleet",
     "vpc"
-  ]
+  ],
+  "node_render_mode": "icon_only",
+  "cluster_styles": {
+    "region":            { "stroke": "#00A4A6", "fill": "rgba(0,164,166,0.04)",   "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "vpc":               { "stroke": "#8C4FFF", "fill": "rgba(140,79,255,0.04)",  "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "subnet":            { "stroke": "#00A4A6", "fill": "rgba(0,164,166,0.03)",   "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "private-subnet":    { "stroke": "#00A4A6", "fill": "rgba(0,164,166,0.03)",   "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "public-subnet":     { "stroke": "#7AA116", "fill": "rgba(122,161,22,0.03)",  "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "account":           { "stroke": "#E7157B", "fill": "rgba(231,21,123,0.03)",  "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "cloud":             { "stroke": "#242F3E", "fill": "rgba(36,47,62,0.03)",    "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "auto-scaling-group":{ "stroke": "#ED7100", "fill": "rgba(237,113,0,0.04)",   "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "corporate-data-center":{ "stroke": "#7D8998", "fill": "rgba(125,137,152,0.03)", "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "ec2-instance-contents":{ "stroke": "#ED7100", "fill": "rgba(237,113,0,0.03)", "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "server-contents":   { "stroke": "#7D8998", "fill": "rgba(125,137,152,0.03)", "stroke_dasharray": "6 3", "corner_radius": 0 },
+    "spot-fleet":        { "stroke": "#ED7100", "fill": "rgba(237,113,0,0.03)",   "stroke_dasharray": "6 3", "corner_radius": 0 }
+  }
 }
