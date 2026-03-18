@@ -1,0 +1,9 @@
+{
+  "providers": {
+    "aws": {
+      "source_version": "2025-07-31",
+      "nodes": 307,
+      "clusters": 11
+    }
+  }
+}
