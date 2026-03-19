@@ -17,6 +17,11 @@
     "k8s": {
       "source_version": "kubernetes/community@a222663ef579 (2022-05-15)",
       "nodes": 39
+    },
+    "lucide": {
+      "source_version": "0.577.0",
+      "license": "ISC",
+      "nodes": 1703
     }
   }
 }
