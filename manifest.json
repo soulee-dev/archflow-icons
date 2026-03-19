@@ -5,6 +5,10 @@
       "nodes": 307,
       "clusters": 11
     },
+    "azure": {
+      "source_version": "November 2025",
+      "nodes": 625
+    },
     "gcp": {
       "source_version": "2025-09",
       "nodes": 19,
